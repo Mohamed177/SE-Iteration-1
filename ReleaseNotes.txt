@@ -1,0 +1,34 @@
+cairo university faculty of engineering
+CUFE Students
+1.0
+
+New Features
+ - User can login into the app
+ - user can get his/her password if he/she forgot it
+ - user can logout of the app
+ - user can see his/her final results
+ - user can see his/her term classwork
+ - user can see his/her personal info
+ - user can see information about the department in the faculty
+ - user can see if he has any warnings
+ 
+Removed Features 
+-none
+
+Enhanced Performance
+-none
+
+Enhanced Look-and-Feel
+-none
+
+Unsupported Functionality
+-none
+
+Fixed Bugs
+-none
+
+
+ 
+
+
+
