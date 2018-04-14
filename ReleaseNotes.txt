@@ -10,7 +10,7 @@ New Features
  - user can see his/her term classwork
  - user can see his/her personal info
  - user can see information about the department in the faculty
- - user can see if he has any warnings
+ - user can see if he/she has any warnings
  
 Removed Features 
 -none
